@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Dayou Du</title>
-    <link>https://DD-DuDa.github.io/publication/</link>
-      <atom:link href="https://DD-DuDa.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://DD-DuDa.github.io/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://DD-DuDa.github.io/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation</title>
-      <link>https://DD-DuDa.github.io/publication/bitdistiller/</link>
+      <link>http://localhost:1313/publication/bitdistiller/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://DD-DuDa.github.io/publication/bitdistiller/</guid>
+      <guid>http://localhost:1313/publication/bitdistiller/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -32,9 +32,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>AFPQ: Asymmetric Floating Point Quantization for LLMs</title>
-      <link>https://DD-DuDa.github.io/publication/afpq/</link>
+      <link>http://localhost:1313/publication/afpq/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://DD-DuDa.github.io/publication/afpq/</guid>
+      <guid>http://localhost:1313/publication/afpq/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -51,9 +51,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Benchmarking and Dissecting the Nvidia Hopper GPU Architecture</title>
-      <link>https://DD-DuDa.github.io/publication/benchmark/</link>
+      <link>http://localhost:1313/publication/benchmark/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://DD-DuDa.github.io/publication/benchmark/</guid>
+      <guid>http://localhost:1313/publication/benchmark/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
