@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GPU Computing | Dayou Du</title>
-    <link>http://localhost:1313/tag/gpu-computing/</link>
-      <atom:link href="http://localhost:1313/tag/gpu-computing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tag/gpu-computing/</link>
+      <atom:link href="https://example.com/tag/gpu-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>GPU Computing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
       <title>GPU Computing</title>
-      <link>http://localhost:1313/tag/gpu-computing/</link>
+      <link>https://example.com/tag/gpu-computing/</link>
     </image>
     
     <item>
       <title>CuTe</title>
-      <link>http://localhost:1313/project/cute/</link>
+      <link>https://example.com/project/cute/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/cute/</guid>
+      <guid>https://example.com/project/cute/</guid>
       <description>&lt;!-- # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck&#39;s filename without extension.
