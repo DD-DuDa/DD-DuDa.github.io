@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache</title>
+      <link>http://localhost:1313/publication/bitdecoding/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bitdecoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Get PhD Offer!</title>
       <link>http://localhost:1313/news/new2/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
@@ -345,7 +353,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-653824719&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-956487312&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -355,7 +363,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-653824719&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-956487312&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
