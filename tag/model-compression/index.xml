@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Model Compression | Dayou Du</title>
-    <link>http://localhost:1313/tag/model-compression/</link>
-      <atom:link href="http://localhost:1313/tag/model-compression/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:58237/tag/model-compression/</link>
+      <atom:link href="http://localhost:58237/tag/model-compression/index.xml" rel="self" type="application/rss+xml" />
     <description>Model Compression</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:58237/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
       <title>Model Compression</title>
-      <link>http://localhost:1313/tag/model-compression/</link>
+      <link>http://localhost:58237/tag/model-compression/</link>
     </image>
     
     <item>
       <title>BitDistiller</title>
-      <link>http://localhost:1313/project/bitdistiller/</link>
+      <link>http://localhost:58237/project/bitdistiller/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/bitdistiller/</guid>
+      <guid>http://localhost:58237/project/bitdistiller/</guid>
       <description>&lt;!-- # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck&#39;s filename without extension.

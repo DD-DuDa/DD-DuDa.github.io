@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dayou Du</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:58237/</link>
+      <atom:link href="http://localhost:58237/index.xml" rel="self" type="application/rss+xml" />
     <description>Dayou Du</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:58237/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
       <title>Dayou Du</title>
-      <link>http://localhost:1313/</link>
+      <link>http://localhost:58237/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/talk/example-talk/</link>
+      <link>http://localhost:58237/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/example-talk/</guid>
+      <guid>http://localhost:58237/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,34 +33,50 @@
     </item>
     
     <item>
+      <title>BitDecoding is accepted by HPCA 2026!</title>
+      <link>http://localhost:58237/news/new4/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58237/news/new4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two paper are accepted by NeurIPS 2025!</title>
+      <link>http://localhost:58237/news/new3/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58237/news/new3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache</title>
-      <link>http://localhost:1313/publication/bitdecoding/</link>
+      <link>http://localhost:58237/publication/bitdecoding/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bitdecoding/</guid>
+      <guid>http://localhost:58237/publication/bitdecoding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Get PhD Offer!</title>
-      <link>http://localhost:1313/news/new2/</link>
+      <link>http://localhost:58237/news/new2/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/new2/</guid>
+      <guid>http://localhost:58237/news/new2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BitDistiller is Accepted by ACL 2024!</title>
-      <link>http://localhost:1313/news/new1/</link>
+      <link>http://localhost:58237/news/new1/</link>
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/new1/</guid>
+      <guid>http://localhost:58237/news/new1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BitDistiller</title>
-      <link>http://localhost:1313/project/bitdistiller/</link>
+      <link>http://localhost:58237/project/bitdistiller/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/bitdistiller/</guid>
+      <guid>http://localhost:58237/project/bitdistiller/</guid>
       <description>&lt;!-- # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck&#39;s filename without extension.
@@ -83,9 +99,9 @@
     
     <item>
       <title>BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation</title>
-      <link>http://localhost:1313/publication/bitdistiller/</link>
+      <link>http://localhost:58237/publication/bitdistiller/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bitdistiller/</guid>
+      <guid>http://localhost:58237/publication/bitdistiller/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -101,9 +117,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs</title>
-      <link>http://localhost:1313/publication/seer/</link>
+      <link>http://localhost:58237/publication/seer/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/seer/</guid>
+      <guid>http://localhost:58237/publication/seer/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -128,9 +144,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>INT8 BERT inference acceleration on TensorRT</title>
-      <link>http://localhost:1313/post/blog-with-jupyter/</link>
+      <link>http://localhost:58237/post/blog-with-jupyter/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
+      <guid>http://localhost:58237/post/blog-with-jupyter/</guid>
       <description>&lt;!-- ```python
 from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
@@ -163,17 +179,17 @@ The notebooks will be published to the folder you specify above. In this case, t
     
     <item>
       <title>LabelTrack</title>
-      <link>http://localhost:1313/project/labeltrack/</link>
+      <link>http://localhost:58237/project/labeltrack/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/labeltrack/</guid>
+      <guid>http://localhost:58237/project/labeltrack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>http://localhost:1313/post/getting-started/</link>
+      <link>http://localhost:58237/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/getting-started/</guid>
+      <guid>http://localhost:58237/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -251,9 +267,9 @@ The notebooks will be published to the folder you specify above. In this case, t
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>http://localhost:1313/post/writing-technical-content/</link>
+      <link>http://localhost:58237/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/writing-technical-content/</guid>
+      <guid>http://localhost:58237/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -353,7 +369,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-956487312&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-154683279&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -363,7 +379,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-956487312&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-154683279&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -645,9 +661,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>http://localhost:1313/slides/example/</link>
+      <link>http://localhost:58237/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/slides/example/</guid>
+      <guid>http://localhost:58237/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -769,28 +785,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>http://localhost:1313/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Benchmarking and Dissecting the Nvidia Hopper GPU Architecture</title>
-      <link>http://localhost:1313/publication/benchmark/</link>
+      <link>http://localhost:58237/publication/benchmark/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/benchmark/</guid>
+      <guid>http://localhost:58237/publication/benchmark/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -813,9 +811,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publication/afpq/</link>
+      <link>http://localhost:58237/publication/afpq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/afpq/</guid>
+      <guid>http://localhost:58237/publication/afpq/</guid>
       <description>&lt;!-- ---
 title: &#34;AFPQ: Asymmetric Floating Point Quantization for LLMs&#34;
 authors:

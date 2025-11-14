@@ -2,29 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | Dayou Du</title>
-    <link>http://localhost:1313/news/</link>
-      <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:58237/news/</link>
+      <atom:link href="http://localhost:58237/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:58237/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
-      <link>http://localhost:1313/news/</link>
+      <link>http://localhost:58237/news/</link>
     </image>
     
     <item>
+      <title>BitDecoding is accepted by HPCA 2026!</title>
+      <link>http://localhost:58237/news/new4/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58237/news/new4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two paper are accepted by NeurIPS 2025!</title>
+      <link>http://localhost:58237/news/new3/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58237/news/new3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Get PhD Offer!</title>
-      <link>http://localhost:1313/news/new2/</link>
+      <link>http://localhost:58237/news/new2/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/new2/</guid>
+      <guid>http://localhost:58237/news/new2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BitDistiller is Accepted by ACL 2024!</title>
-      <link>http://localhost:1313/news/new1/</link>
+      <link>http://localhost:58237/news/new1/</link>
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/new1/</guid>
+      <guid>http://localhost:58237/news/new1/</guid>
       <description></description>
     </item>
     

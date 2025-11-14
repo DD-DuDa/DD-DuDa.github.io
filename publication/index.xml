@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Dayou Du</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:58237/publication/</link>
+      <atom:link href="http://localhost:58237/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:58237/media/icon_hub1f94fc19290931e63f69315db8221fa_9053_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>http://localhost:58237/publication/</link>
     </image>
     
     <item>
+      <title>BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache</title>
+      <link>http://localhost:58237/publication/bitdecoding/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58237/publication/bitdecoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation</title>
-      <link>http://localhost:1313/publication/bitdistiller/</link>
+      <link>http://localhost:58237/publication/bitdistiller/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bitdistiller/</guid>
+      <guid>http://localhost:58237/publication/bitdistiller/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -32,9 +40,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs</title>
-      <link>http://localhost:1313/publication/seer/</link>
+      <link>http://localhost:58237/publication/seer/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/seer/</guid>
+      <guid>http://localhost:58237/publication/seer/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -59,9 +67,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Benchmarking and Dissecting the Nvidia Hopper GPU Architecture</title>
-      <link>http://localhost:1313/publication/benchmark/</link>
+      <link>http://localhost:58237/publication/benchmark/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/benchmark/</guid>
+      <guid>http://localhost:58237/publication/benchmark/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -84,9 +92,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publication/afpq/</link>
+      <link>http://localhost:58237/publication/afpq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/afpq/</guid>
+      <guid>http://localhost:58237/publication/afpq/</guid>
       <description>&lt;!-- ---
 title: &#34;AFPQ: Asymmetric Floating Point Quantization for LLMs&#34;
 authors:
